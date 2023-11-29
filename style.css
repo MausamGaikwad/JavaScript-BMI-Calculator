@@ -1,0 +1,46 @@
+body
+{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.calculator
+{
+    border: 1px solid wheat;
+    box-shadow: 0 0 10px;
+    max-width: 400px;
+    max-height: 800px;
+    margin: 100px auto;
+    background-color: aquamarine;
+}
+h1{
+    border: 1px solid aquamarine;
+    background-color: rgb(135, 206, 235);
+    box-shadow: 0 0 10px;
+    margin: 20px 50px;
+}
+label{
+    margin-top: 10px;
+    font-size: 24px;
+    font-family: cursive;
+}
+
+input,button{
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 1rem;
+}
+#submit
+{
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+p
+{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    margin: 20px 0;
+}
